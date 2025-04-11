@@ -1,0 +1,5 @@
+name=input("ENTER YOUR NAME")
+roll=input("ENTER YOUR ROLL")
+
+print("your name is " name)
+print("your roll is" roll)
